@@ -1,0 +1,8 @@
+export DSREL_MAJOR=22
+export DSREL_MINOR=3
+export DSREL_MAINT=1
+export DSREL_DATAVER=4802
+export DSREL_PRODUCT=ssl-vpn
+export DSREL_DEPS=ive
+export DSREL_BUILDNUM=1647
+export DSREL_COMMENT="R1"
